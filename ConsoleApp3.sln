@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{C9B92504-1E0C-4217-8749-22CA33A210FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuikSort", "QuikSort\QuikSort.csproj", "{A09E40BA-CF18-47F1-9259-E7BDE18C492A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B92504-1E0C-4217-8749-22CA33A210FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B92504-1E0C-4217-8749-22CA33A210FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B92504-1E0C-4217-8749-22CA33A210FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B92504-1E0C-4217-8749-22CA33A210FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09E40BA-CF18-47F1-9259-E7BDE18C492A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09E40BA-CF18-47F1-9259-E7BDE18C492A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09E40BA-CF18-47F1-9259-E7BDE18C492A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09E40BA-CF18-47F1-9259-E7BDE18C492A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46291F8-356A-466C-8C96-E3ABDAA9FCE0}
+	EndGlobalSection
+EndGlobal
